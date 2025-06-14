@@ -79,14 +79,29 @@ Connect to Azure VPN Gateway
 route add 10.0.0.0 mask 255.255.0.0 40.0.1.2 metric 1 if [InterfaceIndex]
 📌 5️⃣ Test Connectivity
 
+```
+	{
+				"appId": "	"did my config here"",
+				"delegatedPermissionIds": [
+					"did my config here"
+				]
+			},
+			{
+				"appId": 	"did my config here",
+				"delegatedPermissionIds": [
+					"did my config here"
+				]
+			}
 
-
-ping 10.0.0.4
+   ```
+ping the test vm
 ✅ Expected: Successful ICMP reply
 ```
 📸 Screenshots
 ![Deployment in github](screenshots/your-image-file.png)
+
 ![Deployed Resources](screenshots/p2s-all.png)
+
 ![Vpn Connection succesed](screenshots/your-image-file.png)
 
 
@@ -99,4 +114,4 @@ This project is licensed under the MIT License.
 
 ✨ Author
 [MO zain]
-LinkedIn Profile | GitHub Profile
+LinkedIn Profile: https://www.linkedin.com/in/mohammed-zain-661a86215/
