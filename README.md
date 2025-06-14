@@ -97,11 +97,14 @@ route add 10.0.0.0 mask 255.255.0.0 40.0.1.2 metric 1 if [InterfaceIndex]
 ping the test vm
 ✅ Expected: Successful ICMP reply
 ```
-📸 Screenshots
+### 📸 Screenshots
+## 📸 Github Deployment
 ![Deployment in github](screenshots/your-image-file.png)
 
+## 📸Resources
 ![Deployed Resources](screenshots/p2s-all.png)
 
+## 📸 testing
 ![Vpn Connection succesed](screenshots/your-image-file.png)
 
 
