@@ -99,13 +99,13 @@ ping the test vm
 ```
 ### 📸 Screenshots
 ## 📸 Github Deployment
-![Deployment in github](screenshots/your-image-file.png)
+![Deployment in github](screenshots/p2s-git.png)
 
 ## 📸Resources
 ![Deployed Resources](screenshots/p2s-all.png)
 
 ## 📸 testing
-![Vpn Connection succesed](screenshots/your-image-file.png)
+![Vpn Connection succesed](screenshots/p2s-ping.png)
 
 
 
